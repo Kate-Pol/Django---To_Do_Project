@@ -4,6 +4,6 @@
 
 ### Easy and Useful To-Do site
 ---
-### Baisc Overview
+### Basic Overview
 ---
 This is simple and easy to use To-Do site. First you should create an account (if do not have one), and just make your own to-do list. Yoou can add new, update or delete an existing items. 
