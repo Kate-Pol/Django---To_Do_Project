@@ -28,3 +28,4 @@ pip install -r requirements. txt
 3. Each existing task can be modified (click on the task title).
 4. Each existing task can be Deleted.
 5. Search - helps to find necessary task.
+6. Log out
