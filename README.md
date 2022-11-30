@@ -6,9 +6,15 @@
 ---
 ### Basic Overview
 ---
-This is simple and easy to use To-Do site. First you should create an account (if do not have one), and just make your own to-do list. Yoou can add new, update or delete an existing items. 
+This is simple and easy to use To-Do site. First you should create an account (if do not have one), and just make your own to-do list. You can add new, update or delete an existing items. 
 
 <img src="https://github.com/Kate-Pol/Django---To_Do_Project/blob/main/png%20files/site%20view.PNG" width="850" height="250">
 
 ### Installation Options
 ---
+Installing all the necessary packages from [requirements file](https://github.com/Kate-Pol/Django---To_Do_Project/blob/main/requirements.txt)
+`pip install -r requirements. txt `
+
+### Basics of the site 
+---
+
