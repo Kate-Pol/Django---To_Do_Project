@@ -20,4 +20,11 @@ pip install -r requirements. txt
 
 ### Basics of the site 
 ---
-
+1. Log in or Register as a new user.
+2. Add Task - allows you to add a new task, which include:
+* Title
+* Description 
+* Complete Yes/ No 
+3. Each existing task can be modified (click on the task title).
+4. Each existing task can be Deleted.
+5. Search - helps to find necessary task.
