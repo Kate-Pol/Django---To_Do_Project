@@ -18,7 +18,7 @@ Installing all the necessary packages from ![requirements file](https://github.c
 pip install -r requirements. txt 
 ```
 
-### Basics of the site 
+### Walk through the Site
 ---
 1. Log in or Register as a new user.
 2. Add Task - allows you to add a new task, which include:
