@@ -13,7 +13,7 @@ This is simple and easy to use To-Do site. First you should create an account (i
 ### Installation Options
 ---
 Installing all the necessary packages from [requirements file](https://github.com/Kate-Pol/Django---To_Do_Project/blob/main/requirements.txt)
-!`pip install -r requirements. txt `
+`pip install -r requirements. txt `
 
 ### Basics of the site 
 ---
