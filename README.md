@@ -4,13 +4,13 @@
 
 ### Easy and Useful To-Do site
 ---
-### Basic Overview
+### 1. Basic Overview
 ---
 This is simple and easy to use To-Do site. First you should create an account (if do not have one), and just make your own to-do list. You can add new, update or delete an existing items. 
 
 <img src="https://github.com/Kate-Pol/Django---To_Do_Project/blob/main/png%20files/site%20view.PNG" width="850" height="250">
 
-### Installation Options
+### 2. Installation Options
 ---
 Installing all the necessary packages from ![requirements file](https://github.com/Kate-Pol/Django---To_Do_Project/blob/main/requirements.txt)
 
@@ -18,7 +18,7 @@ Installing all the necessary packages from ![requirements file](https://github.c
 pip install -r requirements. txt 
 ```
 
-### Walk through the Site
+### 3. Walk through the Site
 ---
 1. Log in (for existing users) or Register (for a new users).
 2. Add Task - allows you to add a new task, which include:
